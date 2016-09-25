@@ -1,4 +1,3 @@
 Predicting the success of a new House Loan product based previous data avaiable with bank.
 Identifying the good colleges for different subjects based on the data avaiable on the college scorecard.
 Launch of new insurence product based on the the data available from National Flood Hazard Layer (NFHL)
-
